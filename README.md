@@ -17,6 +17,7 @@
 В качестве модели использовалась W2NER. Файлы для запуска модели находятся в архиве 'W2NER-main.zip'
 Парметры модели находятся в файле /config/example.json
 Данные для обучения необходимо расположить в папке /data/example
+
 Обученная модель [тут](https://drive.google.com/file/d/1HKvq7JGddXHH9moICpDQ4XhSwsre0P54/view?usp=sharing)
 
 
